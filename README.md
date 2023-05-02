@@ -1,3 +1,9 @@
+# This code is part of Valheim plus as of 24 feb 2021 https://github.com/valheimPlus/ValheimPlus/pull/95
+
+
+
+
+
 # Valheim Large Inventory
 This is a simple mod for the game Valheim, it increases player and storage chests inventory slots count.
 
